@@ -2,3 +2,5 @@ this is the second change i am making
 i am making the third change also in this file
 
 git diff troubling me
+
+tried out git diff now i awant to try out git diff --staged
